@@ -1,1 +1,1 @@
-# Basic-CRUD-Next-JS
+# Basic CRUD Next JS
